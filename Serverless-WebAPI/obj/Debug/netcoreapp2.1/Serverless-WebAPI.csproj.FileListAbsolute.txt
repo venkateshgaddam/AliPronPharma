@@ -1,0 +1,14 @@
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\bin\Debug\netcoreapp2.1\Serverless-WebAPI.deps.json
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\bin\Debug\netcoreapp2.1\Serverless-WebAPI.runtimeconfig.json
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\bin\Debug\netcoreapp2.1\Serverless-WebAPI.runtimeconfig.dev.json
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\bin\Debug\netcoreapp2.1\Serverless-WebAPI.dll
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\bin\Debug\netcoreapp2.1\Serverless-WebAPI.pdb
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.RazorAssemblyInfo.cache
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.RazorAssemblyInfo.cs
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.AssemblyInfoInputs.cache
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.AssemblyInfo.cs
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.dll
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.pdb
+C:\Users\vgaddam\source\repos\Serverless-WebAPI\Serverless-WebAPI\obj\Debug\netcoreapp2.1\Serverless-WebAPI.csprojAssemblyReference.cache
